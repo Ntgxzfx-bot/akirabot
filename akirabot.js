@@ -60,7 +60,7 @@ const TobzKey = 'BotWeA'
 const lolhuman = 'AkiraYT' //Free Trial 3 day
 const onlydev = 'YTAkira' //Free Apikey
 const xteam = 'AkiraBotWa' //Free Trial 3 day
-const namabot = 'Akira Bot'
+const namabot = 'Ntgxzfx Bot'
 
 //kontak
 const vcard = 'BEGIN:VCARD\n'  //Jangan diganti,Ntar error
@@ -71,7 +71,7 @@ const vcard = 'BEGIN:VCARD\n'  //Jangan diganti,Ntar error
             + 'END:VCARD' // Jangan diganti,Ntar Error
             
 //settings            
-prefix = '#'
+prefix = '!'
 blocked = []   
 limitawal = '500' //Terserah Mo Ganti apa kgk
 memberlimit = 1 //Terserah Mo Ganti apa kgk
@@ -79,7 +79,7 @@ cr = '*Akira Bot By Akira*'
 vr = '*Akira Bot Wa*\n*Subscribe Akira*'
 
 //owner number
-const ownerNumber = ["6282158549899@s.whatsapp.net"]  //Ganti Jadi Nomormu
+const ownerNumber = ["6285865213494@s.whatsapp.net"]  //Ganti Jadi Nomormu
 
 //file json
 const _leveling = JSON.parse(fs.readFileSync('./database/group/leveling.json'))
